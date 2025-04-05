@@ -120,7 +120,6 @@ INSERT INTO user_roles (user_id, roles) VALUES
 (39, 'DRIVER'),
 (40, 'RIDER'),
 (40, 'DRIVER');
-
 INSERT INTO rider (id, user_id, rating) VALUES
 (1, 1, 4.9);
 
